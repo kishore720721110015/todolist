@@ -1,0 +1,2 @@
+# todolist
+create static todolist
